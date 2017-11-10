@@ -1,3 +1,5 @@
 all:
-	gcc hello.c -o hello -Wall
+	gcc -g hello.c utils.c -o hello -Wall
 
+clean:
+	rm hello
