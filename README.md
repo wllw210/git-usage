@@ -5,3 +5,4 @@ Common command must be similar.
 Add for test confict.
 Add for branch feature1.
 Check git dev branch.
+Git stash usage.
