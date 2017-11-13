@@ -4,3 +4,4 @@ Git is a good tool, one must skilled use it.
 Common command must be similar.
 Add for test confict.
 Add for branch feature1.
+Git stash usage.
